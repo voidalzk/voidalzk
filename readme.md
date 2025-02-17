@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Gabriel Voidaleski 
+# 👨🏾‍💻 Gabriel Voidaleski 
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Web FullStack`**
 
 Me chamo Gabriel Voidaleski, tenho 20 anos e sou natural do Paraná. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná. Sou apaixonado por tecnologia, jogos, música e esportes. Desenvolvo projetos Web e tenho experiência no mercado de trabalho.
 
