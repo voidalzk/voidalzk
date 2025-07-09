@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Web FullStack`**
 
-Me chamo Gabriel Voidaleski, tenho 20 anos e sou natural do Paraná. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná. Sou apaixonado por tecnologia, jogos, música e esportes. Desenvolvo projetos Web e tenho experiência no mercado de trabalho.
+Me chamo Gabriel Voidaleski, tenho 20 anos e sou natural do Paraná. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná. Sou apaixonado por tecnologia, jogos, música e esportes.  
+Atualmente, sou estagiário no Banco do Brasil SA.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/gabriel-voidaleski-40864a215/">
@@ -55,13 +56,13 @@ Me chamo Gabriel Voidaleski, tenho 20 anos e sou natural do Paraná. Atualmente,
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
-<img 
+<img
     align="left" 
-    alt="Angular"
-    title="Angular" 
+    alt="Spring Boot"
+    title="Spring Boot" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" 
 />
 <img 
     align="left" 
@@ -73,19 +74,19 @@ Me chamo Gabriel Voidaleski, tenho 20 anos e sou natural do Paraná. Atualmente,
 />
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Vue.js" 
+    title="Vue.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Angular"
+    title="Angular" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
 <img 
     align="left" 
@@ -129,14 +130,6 @@ Me chamo Gabriel Voidaleski, tenho 20 anos e sou natural do Paraná. Atualmente,
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -145,11 +138,27 @@ Me chamo Gabriel Voidaleski, tenho 20 anos e sou natural do Paraná. Atualmente,
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Node.js" 
+    title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySql" 
+    title="MySql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Oracle" 
+    title="Oracle"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
 
 <br>
