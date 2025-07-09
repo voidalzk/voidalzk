@@ -58,11 +58,19 @@ Atualmente, sou estagiário no Banco do Brasil SA.
 />
 <img
     align="left" 
-    alt="Spring Boot"
-    title="Spring Boot" 
+    alt="RabbitMQ"
+    title="RabbitMQ" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" 
+/>
+<img
+    align="left" 
+    alt="Go"
+    title="Go" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -146,11 +154,19 @@ Atualmente, sou estagiário no Banco do Brasil SA.
 />
 <img 
     align="left" 
-    alt="MySql" 
-    title="MySql"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
