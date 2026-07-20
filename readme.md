@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web FullStack`**
 
-Me chamo Gabriel Voidaleski, tenho 20 anos e sou natural do Paraná. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná. Sou apaixonado por tecnologia, jogos, música e esportes.  
+Me chamo Gabriel Voidaleski, tenho 22 anos e sou natural do Paraná. Concluí Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná. Sou apaixonado por tecnologia, jogos, música e esportes.  
 Atualmente, sou estagiário no Banco do Brasil SA.
 
 <p align="left">
